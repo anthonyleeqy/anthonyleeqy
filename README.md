@@ -8,3 +8,5 @@ My current job involves:
 •Product growth prediction for business development.
 
 Besides my work, I created my own crypto-trading robot (Josh), and he helped me earn some $$. 🤖
+
+
