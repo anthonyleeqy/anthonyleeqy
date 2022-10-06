@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**anthonyleeqy/anthonyleeqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello world 👋,
 
 I am Anthony. I am passionate about exploring data, telling stories, drawing insights and form strategies from abstract numbers.
