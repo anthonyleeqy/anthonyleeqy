@@ -7,6 +7,6 @@ My current job involves:<br/>
 • Customer behavior study for our product pricing strategy.<br/> 
 • Product growth prediction for business development.<br/>
 
-Besides my work, I created my own crypto-trading robot (Josh), and he helped me earn some $$. 🤖
+Besides my work, I created my own algorithmic cryptocurrency trading robot (Josh), and he helped me earn some $$. 🤖
 
 
