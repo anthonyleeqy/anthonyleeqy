@@ -1,6 +1,6 @@
 Hello world 👋,
 
-I am Anthony. I am passionate about exploring data, telling stories, drawing insights and form strategies from abstract numbers.
+I am Anthony. I am passionate about exploring data, telling stories, drawing insights and form strategies from abstract numbers. I am also a certified AWS machine learning specialist. 
 
 My current job involves:<br/> 
 • Revenue forecast and resource optimization for data-driven corporate strategy.<br/> 
